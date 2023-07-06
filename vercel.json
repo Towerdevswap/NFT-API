@@ -77,7 +77,7 @@
   ],
   "functions": {
     "api/v1/collections/tokens/filter.ts": {
-      "memory": 3008,
+      "memory": 1024,
       "maxDuration": 10
     }
   }
